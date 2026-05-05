@@ -9,7 +9,7 @@ Java Backend Developer • Focused on Real-World Applications
 ## 👩‍💻 About Me
 
 I am a Java developer focused on building backend systems using clean architecture and database-driven applications.
-Currently learning Spring Boot and improving my full-stack development skills.
+Currently Working with Spring Boot to build scalable backend services and improving my full-stack development skills.
 
 ---
 
@@ -25,25 +25,26 @@ Currently learning Spring Boot and improving my full-stack development skills.
 
 ## 🚀 Projects
 
-**Hotel Reservation System**
-Backend system handling booking, availability, and payments using Java + JDBC + MySQL
+### 🏨 Hotel Reservation System  
+Backend system handling booking, availability, and payments  
+Tech: Java • JDBC • MySQL  
 
-**Arena-Link**
-Sports facility booking platform with user-friendly interface
+### 🏟️ Arena-Link  
+Sports facility booking platform with user-friendly interface  
+Tech: HTML • CSS • JS • PYTHON
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KamalaGowri&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalaGowri&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
-
 ---
 
 ## 🎯 Current Focus
 
-* Learning Spring Boot
+* Working with Spring Boot to build scalable backend services
 * Building real-world backend projects
 * Preparing for software developer roles
 
@@ -52,8 +53,9 @@ Sports facility booking platform with user-friendly interface
 ## 🌐 Contact
 
 LinkedIn → https://www.linkedin.com/in/kamala-gowri-g12
-Email → [gkamalagowri@gmail.com](mailto:gkamalagowri@gmail.com)
+Email → [gkamalagowri@gmail.com]
+(mailto:gkamalagowri@gmail.com)
 
 ---
 
-<p align="center"><i>Consistent learning. Practical building.</i></p>
+<p align="center"><i>Focused on building real-world applications and improving every day.</i></p>

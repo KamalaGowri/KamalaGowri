@@ -8,8 +8,11 @@ Java Backend Developer • Focused on Real-World Applications
 
 ## 👩‍💻 About Me
 
-I am a Java developer focused on building backend systems using clean architecture and database-driven applications.
-Currently Working with Spring Boot to build scalable backend services and improving my full-stack development skills.
+I am a Java backend developer focused on building database-driven applications using clean architecture.
+
+I have developed systems such as a Hotel Reservation System and Arena-Link, implementing core backend logic using Java, JDBC, and MySQL.
+
+I also work with Spring Boot to build scalable backend services.
 
 ---
 
@@ -18,43 +21,45 @@ Currently Working with Spring Boot to build scalable backend services and improv
 * Java, JDBC
 * MySQL
 * HTML, CSS
-* Spring Boot (Learning)
+* Spring Boot
 * Git & GitHub
 
 ---
 
 ## 🚀 Projects
 
-### 🏨 Hotel Reservation System  
-Backend system handling booking, availability, and payments  
-Tech: Java • JDBC • MySQL  
+### 🏨 Hotel Reservation System
 
-### 🏟️ Arena-Link  
-Sports facility booking platform with user-friendly interface  
-Tech: HTML • CSS • JS • PYTHON
+Backend system handling booking, availability, and payments
+**Tech:** Java • JDBC • MySQL
+
+### 🏟️ Arena-Link
+
+Sports facility booking platform
+**Tech:** HTML • CSS • JavaScript • Python
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamalaGowri&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalaGowri&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🎯 Current Focus
 
-* Working with Spring Boot to build scalable backend services
-* Building real-world backend projects
+* Building scalable backend services with Spring Boot
+* Developing real-world backend applications
 * Preparing for software developer roles
 
 ---
 
 ## 🌐 Contact
 
-LinkedIn → https://www.linkedin.com/in/kamala-gowri-g12
-Email → [gkamalagowri@gmail.com]
-(mailto:gkamalagowri@gmail.com)
+* LinkedIn → https://www.linkedin.com/in/kamala-gowri-g12
+* Email → <a href="mailto:gkamalagowri@gmail.com">[gkamalagowri@gmail.com](mailto:gkamalagowri@gmail.com)</a>
 
 ---
 

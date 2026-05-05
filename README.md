@@ -28,22 +28,20 @@ I also work with Spring Boot to build scalable backend services.
 
 ## 🚀 Projects
 
-### 🏨 Hotel Reservation System
+### 🏨 Hotel Reservation System  
+Backend system handling booking, availability, and payments  
+**Tech:** Java • JDBC • MySQL  
 
-Backend system handling booking, availability, and payments
-**Tech:** Java • JDBC • MySQL
-
-### 🏟️ Arena-Link
-
-Sports facility booking platform
-**Tech:** HTML • CSS • JavaScript • Python
+### 🏟️ Arena-Link  
+Sports facility booking platform  
+**Tech:** HTML • CSS • JavaScript • Python  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamalaGowri&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalaGowri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---

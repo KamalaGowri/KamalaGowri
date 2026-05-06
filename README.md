@@ -10,31 +10,39 @@ Java Backend Developer • Focused on Real-World Applications
 
 I am a Java backend developer focused on building database-driven applications using clean architecture.
 
-I have developed systems such as a Hotel Reservation System and Arena-Link, implementing core backend logic using Java, JDBC, and MySQL.
+I have developed backend systems using Java, JDBC, MySQL, and Spring Boot with REST API integration and layered architecture.
 
-I also work with Spring Boot to build scalable backend services.
+I enjoy building real-world applications and continuously improving my backend development skills.
 
 ---
 
 ## 🛠 Skills
 
-* Java, JDBC
+* Java
+* JDBC
 * MySQL
-* HTML, CSS
 * Spring Boot
+* REST APIs
+* HTML
+* CSS
+* JavaScript
 * Git & GitHub
 
 ---
 
 ## 🚀 Projects
 
-### 🏨 Hotel Reservation System  
-Backend system handling booking, availability, and payments  
-**Tech:** Java • JDBC • MySQL  
+### 🏨 Hotel Reservation System
+Backend system for managing hotel bookings, room availability, and customer details.
 
-### 🏟️ Arena-Link  
-Sports facility booking platform  
-**Tech:** HTML • CSS • JavaScript • Python  
+**Tech:** Java • JDBC • MySQL
+
+---
+
+### 🏦 Finovia Banking System
+Modern banking management system with account creation, deposit, withdrawal, balance check, and transaction history.
+
+**Tech:** Spring Boot • Java • MySQL • HTML • CSS • JavaScript
 
 ---
 
@@ -50,6 +58,7 @@ Sports facility booking platform
 
 * Building scalable backend services with Spring Boot
 * Developing real-world backend applications
+* Improving REST API development skills
 * Preparing for software developer roles
 
 ---
@@ -57,8 +66,10 @@ Sports facility booking platform
 ## 🌐 Contact
 
 * LinkedIn → https://www.linkedin.com/in/kamala-gowri-g12
-* Email → <a href="mailto:gkamalagowri@gmail.com">[gkamalagowri@gmail.com](mailto:gkamalagowri@gmail.com)</a>
+* Email → <a href="mailto:gkamalagowri@gmail.com">gkamalagowri@gmail.com</a>
 
 ---
 
-<p align="center"><i>Focused on building real-world applications and improving every day.</i></p>
+<p align="center">
+<i>Focused on building real-world applications and improving every day.</i>
+</p>
